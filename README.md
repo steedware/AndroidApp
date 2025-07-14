@@ -33,4 +33,4 @@ Aplikacja mobilna na system Android wykorzystująca akcelerometr oraz animacje p
 
 ## Autor
 
-STBash
+steedware
